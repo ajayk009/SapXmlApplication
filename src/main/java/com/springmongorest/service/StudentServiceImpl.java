@@ -1,6 +1,7 @@
-package com.jakir.springmongorest.service;
-import com.jakir.springmongorest.model.Student;
-import com.jakir.springmongorest.repository.StudentRepository;
+package com.springmongorest.service;
+import com.springmongorest.model.Student;
+import com.springmongorest.repository.StudentRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;

@@ -1,8 +1,8 @@
-package com.jakir.springmongorest.service;
-
-import com.jakir.springmongorest.model.Student;
+package com.springmongorest.service;
 
 import java.util.List;
+
+import com.springmongorest.model.Student;
 
 public interface StudentService {
     void addStudent(Student student);

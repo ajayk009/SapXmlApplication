@@ -1,7 +1,8 @@
-package com.jakir.springmongorest.controller;
+package com.springmongorest.controller;
 
-import com.jakir.springmongorest.model.Student;
-import com.jakir.springmongorest.service.StudentService;
+import com.springmongorest.model.Student;
+import com.springmongorest.service.StudentService;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

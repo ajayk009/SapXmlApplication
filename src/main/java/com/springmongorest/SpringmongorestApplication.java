@@ -1,4 +1,4 @@
-package com.jakir.springmongorest;
+package com.springmongorest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
