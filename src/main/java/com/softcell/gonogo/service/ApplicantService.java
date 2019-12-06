@@ -1,4 +1,4 @@
-package com.springmongorest.service;
+package com.softcell.gonogo.service;
 
 import com.softcell.gonogo.model.request.ApplicationRequest;
 

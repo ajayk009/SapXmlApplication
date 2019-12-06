@@ -6,9 +6,7 @@ import com.softcell.gonogo.model.address.CustomerAddress;
 import com.softcell.gonogo.model.contact.Email;
 import com.softcell.gonogo.model.contact.Phone;
 import com.softcell.gonogo.model.core.Name;
-
 import org.springframework.data.mongodb.core.mapping.Field;
-
 import org.springframework.data.annotation.Transient;
 import javax.validation.constraints.Past;
 import java.io.Serializable;

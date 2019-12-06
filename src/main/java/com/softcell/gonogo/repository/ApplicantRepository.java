@@ -1,4 +1,4 @@
-package com.springmongorest.repository;
+package com.softcell.gonogo.repository;
 
 
 import org.javers.spring.annotation.JaversSpringDataAuditable;

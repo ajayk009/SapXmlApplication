@@ -1,4 +1,4 @@
-package com.springmongorest;
+package com.softcell.gonogo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
